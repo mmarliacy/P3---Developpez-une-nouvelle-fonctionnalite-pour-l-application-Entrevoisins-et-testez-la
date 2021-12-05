@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Entrevoisins</string>
+    <string name="tab_neighbour_title">My neighbours</string>
+    <string name="tab_favorites_title">Favorites</string>
+    <string name="activity_new_neighbour">New neighbour</string>
+    <string name="profile_photo">profile_photo</string>
+    <string name="neighbor_heading_name">Caroline</string>
+    <string name="neighbor_name">Caroline</string>
+    <string name="profile_address">Saint Pierre du mont a 5 km</string>
+    <string name="phone_number">+ 33 6 86 57 90 14</string>
+    <string name="website_url_contact">www.facebook.fr/caroline</string>
+    <string name="About_me">A propos de moi</string>
+    <string name="neighbor_description">Bonjour</string>
+    <string name="fab_btn">fab_btn</string>
+    <string name="back_arrow_btn">back_arrow_btn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="avatarurl">AvatarURL</string>
+    <string name="neighbour">Neighbour</string>
+</resources>

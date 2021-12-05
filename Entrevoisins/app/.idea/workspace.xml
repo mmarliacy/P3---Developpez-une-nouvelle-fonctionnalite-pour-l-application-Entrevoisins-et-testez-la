@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35546516-96a3-40bc-bb9e-a4dbbc297a8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/render.experimental.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images du projets/Screenshot_1630330622.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images du projets/Screenshot_1630330859.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images du projets/Screenshot_1630330894.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images du projets/Screenshot_1630330903.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/androidTest/java/com/openclassrooms/entrevoisins/neighbour_list/NeighbourInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/androidTest/java/com/openclassrooms/entrevoisins/utils/DeleteViewAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/androidTest/java/com/openclassrooms/entrevoisins/utils/RecyclerViewItemCountAssertion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/androidTest/java/com/openclassrooms/entrevoisins/utils/SelectItemView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/androidTest/java/com/openclassrooms/entrevoisins/utils/SelectTabByPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/ic_launcher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/openclassrooms/entrevoisins/di/DI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/openclassrooms/entrevoisins/events/DeleteNeighbourEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/openclassrooms/entrevoisins/model/Neighbour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/openclassrooms/entrevoisins/service/DummyNeighbourApiService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/openclassrooms/entrevoisins/service/DummyNeighbourGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/openclassrooms/entrevoisins/service/NeighbourApiService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/openclassrooms/entrevoisins/ui/ProfileActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/openclassrooms/entrevoisins/ui/favorite_neighbour_list/FavNeighbourFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/openclassrooms/entrevoisins/ui/neighbour_list/AddNeighbourActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/openclassrooms/entrevoisins/ui/neighbour_list/ListNeighbourActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/openclassrooms/entrevoisins/ui/neighbour_list/ListNeighbourPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/openclassrooms/entrevoisins/ui/neighbour_list/MyNeighbourRecyclerViewAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/com/openclassrooms/entrevoisins/ui/neighbour_list/NeighbourFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-anydpi/ic_back_arrow_action.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-hdpi/ic_back_arrow_action.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-mdpi/ic_back_arrow_action.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-xhdpi/ic_back_arrow_action.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-xxhdpi/ic_back_arrow_action.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_account.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_address.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_baseline_star_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_baseline_star_border_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_delete_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_person_add_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_phone.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_star_border_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_star_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/ic_website.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable/round_shape_linearlayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_add_neighbour.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_list_neighbour_appbar_addbuton.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/favorite_recyclerview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/fragment_list_neighbour_margin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/fragment_neighbour_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/fragment_neighbour_list_recyclerview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/refs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/xml/backup_descriptor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/res/xml/network_security_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/test/java/com/openclassrooms/entrevoisins/service/NeighbourServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1xSkYrR7VyJw6jfHNnh2BMBTj2y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35546516-96a3-40bc-bb9e-a4dbbc297a8d" name="Default Changelist" comment="" />
+      <created>1630355927437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630355927437</updated>
+    </task>
+    <servers />
+  </component>
+</project>

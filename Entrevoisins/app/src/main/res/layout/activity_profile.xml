@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/profile_activity_constraint_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEEEEF"
+    android:orientation="vertical"
+    tools:context=".ui.ProfileActivity">
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/profile_activity_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="340dp"
+        android:layout_marginTop="235dp"
+        android:clickable="true"
+        android:contentDescription="@string/fab_btn"
+        android:focusable="true"
+        app:backgroundTint="#FFFFFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_baseline_star_24" />
+
+
+    <ImageView
+        android:id="@+id/profile_activity_photo"
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:background="#2196F3"
+        android:contentDescription="@string/profile_photo"
+        android:scaleType="center"
+        app:layout_constraintBottom_toBottomOf="@+id/profile_activity_heading_name"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/profile_activity_heading_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="184dp"
+        android:padding="20dp"
+        android:text="@string/neighbor_heading_name"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="@+id/profile_activity_photo"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/profile_activity_contact_block"
+        android:layout_width="match_parent"
+        android:layout_height="195dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="272dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/round_shape_linearlayout"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/profile_activity_name"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginBottom="7dp"
+            android:gravity="bottom"
+            android:text="@string/neighbor_name"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <View
+            android:id="@+id/profile_activity_line1"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginTop="0dp"
+            android:background="#A9BCB9B9" />
+
+        <TextView
+            android:id="@+id/profile_activity_address"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="3dp"
+            android:drawableStart="@drawable/ic_address"
+            android:drawablePadding="10dp"
+            android:padding="10dp"
+            android:text="@string/profile_address"
+            android:textColor="#5C5B5B"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/profile_activity_phone_number"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:drawableStart="@drawable/ic_phone"
+            android:drawablePadding="10dp"
+            android:padding="10dp"
+            android:text="@string/phone_number"
+            android:textColor="#5C5B5B"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/profile_activity_URL_contact"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:drawableStart="@drawable/ic_website"
+            android:drawablePadding="10dp"
+            android:padding="10dp"
+            android:text="@string/website_url_contact"
+            android:textColor="#5C5B5B"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/profile_activity_description_block"
+        android:layout_width="392dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="480dp"
+        android:background="@drawable/round_shape_linearlayout"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/profile_activity_about_me"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginBottom="7dp"
+            android:gravity="bottom"
+            android:text="@string/About_me"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <View
+            android:id="@+id/profile_activity_line2"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginTop="0dp"
+            android:background="#A9BCB9B9" />
+
+        <TextView
+            android:id="@+id/profile_activity_neighbor_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:paddingStart="15dp"
+            android:paddingTop="15dp"
+            android:paddingEnd="10dp"
+            android:paddingBottom="5dp"
+            android:text="@string/neighbor_description"
+            android:textColor="#5C5B5B"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
