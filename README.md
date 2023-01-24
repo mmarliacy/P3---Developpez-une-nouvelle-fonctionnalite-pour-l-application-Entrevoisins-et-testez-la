@@ -3,7 +3,7 @@
 
 ### Summary
    1. [General information](#general-information);
-   2. [Project screenshots](#project-photos);
+   2. [Project screenshots](#pictures-of-the-project);
    3. [Dependencies and technologies used](#technologies-used);
    4. [Installation of the project](#how-to-install);
    5. [Features developed](#features-developed);
@@ -17,6 +17,7 @@ Among other things, the application had the following features:
   * list its neighbors;
   * add a neighbor;
   * removal of a neighbor.
+ 
 #### #Pictures of the project
 ***
 ![Home screen capture](https://github.com/mmarliacy/OC_PROJETS/blob/main/Entrevoisins/Images%20du%20projets/Screenshot_1630330622.png) "Home screen"
