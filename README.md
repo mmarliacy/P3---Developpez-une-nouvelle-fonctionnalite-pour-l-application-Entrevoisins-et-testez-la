@@ -48,12 +48,12 @@ The goal was therefore for this project, to add these additional features:
    * a favorites button which would add a neighbor to the favorites list;
   * A Favorites tab where users marked as favorites would display.
 
-#### #Auteurs et Contributeurs
+#### #Authors and Contributors
 ***
-Ce projet a été réalisé par @Deyine un intervenant d'OpenClassRooms, et j'y ai apporté les fonctionnalités supplémentaires.
-> De plus, j'aimerai remercier mon mentor @ LionelMambingo pour son soutien lors de l'implémentation de celles ci.
-> Selon lui, "La programmation, c'est de l'apprentissage, une succession de problèmes à résoudre qu'on apprend à connaître au fur et à mesure"
+This project was made by @Deyine a speaker from OpenClassRooms, and I brought the additional features to it.
+> Additionally, I would like to thank my mentor @ LionelMambingo for his support in implementing these.
+> According to him, "Programming is learning, a succession of problems to solve that you get to know as you go"
 
-#### #Version Android Studio
+#### #Android Studio version
 ***
-Ce projet a été réalisé à l'aide d'Android Studio 4.2.2, puis par la version mise à jour 2020.3.1 (Patch 1).
+This project was made using Android Studio 4.2.2, then updated version 2020.3.1 (Patch 1).
