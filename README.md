@@ -19,7 +19,7 @@ Among other things, the application had the following features:
   * removal of a neighbor.
 
 
-#### #Pictures of the project
+#####Pictures of the project
 ***
 ![Home screen capture](https://github.com/mmarliacy/OC_PROJETS/blob/main/Entrevoisins/Images%20du%20projets/Screenshot_1630330622.png) "Home screen"
 ![Neighbor's profile](https://github.com/mmarliacy/OC_PROJETS/blob/main/Entrevoisins/Images%20du%20projets/Screenshot_1630330859.png) "Neighbor's profile and empty favorites button"
